@@ -14,7 +14,6 @@ header{
     top:0;
     left:0;
     z-index: 0;
-    opacity: ;
 }
 .header-logo{
     color:white;
@@ -23,7 +22,6 @@ header{
     position:absolute;
     top:-10px;
     left:5px;
-    opacity:;
 }
 
 /*first-wrapper*/
@@ -33,7 +31,6 @@ header{
     position:absolute;
     top:30px;
     left:0px;
-    opacity:;
 }
 .first-image{
     width:100%;
@@ -41,7 +38,6 @@ header{
     position:absolute;
     top:0px;
     left:0px;
-    opacity:;
 }
 .profile{
     background-color:rgba(0, 0, 0, 0.7);
@@ -50,7 +46,6 @@ header{
     position:absolute;
     top:769px;
     left:0px;
-    opacity:;
 }
 .profile-logo{
     color:white;
@@ -59,7 +54,6 @@ header{
     position:absolute;
     top:-10px;
     left:5px;
-    opacity:;
 }
 .profile-image{
     width:20%;
@@ -68,7 +62,6 @@ header{
     top:53px;
     left:0px;
     z-index:1;
-    opacity:;
 }
 .profile-text{
     background-color:rgb(255, 255, 255);
@@ -99,7 +92,6 @@ header{
     top:0px;
     left:0px;
     z-index:-1;
-    opacity:;
 }
 .works{
     background-color:rgba(0, 0, 0, 0.7);
@@ -108,7 +100,6 @@ header{
     position:absolute;
     top:459px;
     left:0px;
-    opacity:;
 }
 .works-logo{
     color:white;
@@ -117,7 +108,6 @@ header{
     position:absolute;
     top:-10px;
     left:5px;
-    opacity:;
 }
 .works-contents{
     position:absolute;
@@ -160,7 +150,6 @@ footer{
     top:733px;
     left:0;
     z-index:-1;
-    opacity: ;
 }
 .footer-logo{
     color:rgb(255, 255, 255);
@@ -169,7 +158,6 @@ footer{
     position:absolute;
     top:-10px;
     left:5px;
-    z-index: ;
 }
 
 /*responsive design用*/
