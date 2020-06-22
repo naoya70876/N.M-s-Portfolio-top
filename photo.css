@@ -111,6 +111,9 @@ header{
 .photo-sample img{
     width:210px;
 }
+.photo-sample-a{
+    margin-top:-6px;
+}
 
 /*Profile*/
 .profile{
